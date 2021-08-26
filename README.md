@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Readme"
-permalink: /readme/
+permalink: /readme
 author_profile: true
 redirect_from:
   - /resume
