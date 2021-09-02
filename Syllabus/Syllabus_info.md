@@ -31,3 +31,14 @@ Machen Sie sich bereits Gedanken, in welchen Forschungsbereich Sie Ihre Replikat
 * Das Paper sollte nicht älter als 2015 sein. 
 * Das Paper sollte statistische Methoden verwenden, die Sie während der Seminarlaufzeit erlernen können!
 
+## Ablaufplan ##
+
+<table class="tg">
+<tbody>
+<tr>
+<td width="20%"><strong>Woche 1</strong></td>
+<td width="80%"><strong>Einführungssitzung </strong>. br() Hello</td>
+</tr>
+
+</tbody>
+</table>
