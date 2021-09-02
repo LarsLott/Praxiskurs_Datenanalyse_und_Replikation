@@ -37,7 +37,7 @@ Machen Sie sich bereits Gedanken, in welchen Forschungsbereich Sie Ihre Replikat
 <tbody>
 <tr>
 <td width="20%"><strong>Woche 1</strong></td>
-<td width="80%"><strong>Einführungssitzung </strong>. br() Hello</td>
+  <td width="80%"><p><strong>Einführungssitzung </strong></p> <p> Was ist Replikation? Was ist die “reproducibility debate” in der (statistischen) politikwissenschaftlichen Forschung; Warum sollten wir replizieren? Wie wählen Sie ein passendes Paper für eine Replikation aus? Wo findne Sie die Replikationsmaterialen? Wie kommunzieren Sie ggf mit den originalautoren? </td>
 </tr>
 
 </tbody>
