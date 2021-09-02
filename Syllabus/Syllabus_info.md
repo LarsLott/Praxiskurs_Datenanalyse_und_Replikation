@@ -44,5 +44,29 @@ Machen Sie sich bereits Gedanken, in welchen Forschungsbereich Sie Ihre Replikat
   </td>
 </tr>
 
+<tr>
+<td width="20%"><strong>Woche 2</strong></td>
+  <td width="80%"><p><h3> Was ist replizierbare sozialwissenschaftliche Datenanalyse? </h3></p> 
+  <p> Was ist gute quantiative Forschung? Wie empirische Analysen anderer Forschender nachvollziehen und replizieren? Was verstehen wir unter Replikation, (Stichworte: Reproducibility vs. Replication; duplication stud;, replication study). Wie planen wir unsere Replikationsstudie? Wie arbeiten wir selber reproduzierbar? </p> 
+  
+  <p><h3>Literatur</h3></p> 
+  <p> Reproducible Research and Data Analysis. Open Science Training Handbook. https://open-science-training-handbook.gitbook.io/book/open-science-basics/reproducible-research-and-data-analysis </p>
+  <p> Peng, Roger D. "Reproducible research in computational science." Science 334.6060 (2011): 1226-1227. https://www.science.org/doi/full/10.1126/science.1213847 </p>
+  <p> Gandrud, Christopher. Reproducible research with R and RStudio. Chapman and Hall/CRC, 2018. https://api.taylorfrancis.com/content/books/mono/download?identifierName=doi&identifierValue=10.1201/9781315382548&type=googlepdf (zur Inspiration und zum Nachschlagen)</p>
+  </td>
+</tr>
+
+
+<tr>
+<td width="20%"><strong>Woche 3</strong></td>
+  <td width="80%"><p><h3> Auswahl einer geeigneten Studie zur Replikation </h3></p> 
+  <p> Suchen nach geeigneten quantifizierenden und bereits publizierten Studien; Daten und die Softwareskripte zugänglich?; Verwendeten Methoden bekannt oder wärhend des Seminars erlernbar?; Code und Daten herunterladen und übersichtliche Ordnerstruktur erstellen; Erste Replikationsanalyse: Kommt das raus, was im Paper steht?; Läuft der code?</p> 
+  
+  <p><h3>Literatur</h3></p> 
+  <p> keine Literatur, orientieren Sie sich an Gandrud, Christopher. Reproducible research with R and RStudio. Chapman and Hall/CRC, 2018</p>
+  
+  </td>
+</tr>
+
 </tbody>
 </table>
