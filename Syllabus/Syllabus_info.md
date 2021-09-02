@@ -37,7 +37,11 @@ Machen Sie sich bereits Gedanken, in welchen Forschungsbereich Sie Ihre Replikat
 <tbody>
 <tr>
 <td width="20%"><strong>Woche 1</strong></td>
-  <td width="80%"><p><strong>Einführungssitzung </strong></p> <p> Was ist Replikation? Was ist die “reproducibility debate” in der (statistischen) politikwissenschaftlichen Forschung; Warum sollten wir replizieren? Wie wählen Sie ein passendes Paper für eine Replikation aus? Wo findne Sie die Replikationsmaterialen? Wie kommunzieren Sie ggf mit den originalautoren? </td>
+  <td width="80%"><p><strong>Einführungssitzung </strong></p> <p> Was ist Replikation? Was ist die “reproducibility debate” in der (statistischen) politikwissenschaftlichen Forschung; Warum sollten wir replizieren? Wie wählen Sie ein passendes Paper für eine Replikation aus? Wo findne Sie die Replikationsmaterialen? Wie kommunzieren Sie ggf mit den originalautoren? </p> <p><strong>Literatur</strong></p> 
+  <p>King, Gary. 1995. Replication, Replication. PS: Political Science and Politics 28: 443–499. http://j.mp/jCyfF1</p>
+  <p>King, Gary “How to Write a Publishable Paper as a Class Project ”, http://gking.harvard.edu/papers</p>
+  <p>Nicole Janz, Bringing the Gold Standard into the Classroom: Replication in University Teaching, <em>International Studies Perspectives</em>, Volume 17, Issue 4, November 2016, Pages 392–407, https://doi.org/10.1111/insp.12104</p>
+  </td>
 </tr>
 
 </tbody>
