@@ -4,7 +4,7 @@
 
 Dieses Seminar führt Studierende systematisch an der Prozess der Reproduktion von bereits publizierten Arbeiten heran. Zentraler Gedanke dieses Kurses ist es, dass Studierende durch das Replizieren von quantifizierenden Analysen anderer Wissenschaftler:innen besser mit fortgeschrittenen Methoden der sozialwissenschaftlichen Datenanalyse vertraut gemacht werden. Darüberhinaus befähigt das Seminar Studierende dazu angemessene empirische Modelle auszuwählen und erhört die Chance, dass Studierende bereits in einer frühen Karierrephase publizieren. 
 
-Dieses Seminar ermöglicht es Studierende daher ein tiefgehenderes Verständnis von statistischen Modellen praxisbezogen zu erlangen. Ferner kann es Studierenden gelingen eine Repikationsstudie in einem Journal einzureichen, wenn durch die Replikationsstudie ein eigener substanizeller Beitrag zu Forschung geleistet wird (value added). 
+Dieses Seminar ermöglicht es Studierende daher ein tiefgehenderes Verständnis von statistischen Modellen praxisbezogen zu erlangen. Ferner kann es Studierenden gelingen eine Replikationsstudie in einem Journal einzureichen, wenn durch die Replikationsstudie ein eigener substanizeller Beitrag zu Forschung geleistet wird (value added). 
 
 ## Dauer und Format ##
 
@@ -105,7 +105,7 @@ Machen Sie sich bereits Gedanken, in welchen Forschungsbereich Sie Ihre Replikat
 
 <tr>
 <td width="20%"><strong>Woche 7</strong></td>
-  <td width="80%"><p><h3> Cross-Check Reports </h3></p> 
+  <td width="80%"><p><h3> Cross-Check Reports und weiterer Plan </h3></p> 
   <p> Vorstellen und Diskutieren der Cross-Check Reports; Problemlösung; Wie bringen wir eine Replikation in eine publikationswürige Form?; Wie einen eigenen Forschungsbeitrag durch Replikation leisten? (Bsp. robustness checks; dummy variables; interactions; omitted variables; model selection, patterns of missings)  </p> 
   
   <p><h3>Literatur</h3></p> 
@@ -113,5 +113,24 @@ Machen Sie sich bereits Gedanken, in welchen Forschungsbereich Sie Ihre Replikat
     </td>
 </tr>
 
+<tr>
+<td width="20%"><strong>Woche 8</strong></td>
+  <td width="80%"><p><h3> Reproduktionsstudie zur Replikation mit Mehrwert machen </h3></p> 
+  <p> Planen der weiteren Analyseschritte: 
+  * 1) Originalergebnisse waren replizierbar? -> Wie Mehrwert bieten, der über die Replikationm hinausgeht?; 
+  * 2) Originalergebnisse waren nicht replizierbar (bestätigt durch Seminarleitung) -> Warum waren diese nicht replizierbar? Wie Mehrwert bieten und fairen Report schreiben? </p> 
+  
+ <p> Im Fall 1): Merhwert kann erst generiert werden, wenn Sie die substanzielle, problemspezifische Literatur kennen: Lesen und Sortieren. Im zweiten Schritt mit der   kleinstmöglichen Zahl an Verbesserungen starten, die neue und substanzielle Ergebnisse produziert: “missing data, selection bias, omitted variable bias, the model specification, differential item functioning, the functional form, etc., adding control variables or better measures, extending the time series and conducting out-of-sample tests, applying a better statistical model” (King 2006:120). </p> 
+ 
+  <p> Im Fall 2): Merhwert kann erst generiert werden, wenn Sie die herausfinden, warum Sie die Ergebnisse nicht reproduzieren können. Woran liegt das? Daten fehlerhaft, Skripte fehlerhaft; Was kommt bei Ihrer Replikation raus? Ändert das die substanzielle Interpretationen der Originalautor:innen? </p> 
+  
+  <p><h3>Literatur</h3></p> 
+   <p>King, Gary. 1995. Replication, Replication. PS: Political Science and Politics 28: 443–499. http://j.mp/jCyfF1</p>
+   <p>King, Gary “How to Write a Publishable Paper as a Class Project ”, http://gking.harvard.edu/papers</p>
+   <p>King, Gary. 2006. “Publication, Publication.” PS: Political Science and Politics, 39, Pp. 119–125.</p>
+    </td>
+</tr>
+
 </tbody>
 </table>
+
