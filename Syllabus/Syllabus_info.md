@@ -131,6 +131,48 @@ Machen Sie sich bereits Gedanken, in welchen Forschungsbereich Sie Ihre Replikat
     </td>
 </tr>
 
+<tr>
+<td width="20%"><strong>Woche 9 (keine Seminarsitzung) </strong></td>
+  <td width="80%"><p><h3> Reproduktionsstudie zur Replikation mit Mehrwert machen II </h3></p> 
+  <p> Individuelle Arbeit an Projekt. Ausgedehnte Sprechstunde während des Sitzungzeit bei Probleme. Praktische Hilfestellungen bei statistische Fragen </p> 
+  
+  <p><h3>Literatur</h3></p> 
+  <p> keine Literatur</p>
+    </td>
+</tr>
+
+<tr>
+<td width="20%"><strong>Woche 10</strong></td>
+  <td width="80%"><p><h3> Replikationscodes veröffentlichen </h3></p> 
+  <p> Bringen Sie in die Sitzung Ihren kompletten Replikationsordner mit. Laufen alle Codes durch? Sind die Benennungen der Files (Tabellen, Figures) eindeutig?, Erstellen Sie ein readme-Dokument für die Nachvollziehbarkeit Ihrer Ordnerstruktur. Legen Sie Ihre Replikationscode inklusive der Ordnerstruktur und der Daten auf einem der folgenden Plattformen ab: Harvard Dataverse (https://dataverse.harvard.edu/); Open Science Framework (https://osf.io/); Github (https://github.com/).  </p> 
+  
+  <p><h3>Literatur</h3></p> 
+  <p> keine Literatur</p>
+    </td>
+</tr>
+
+<tr>
+<td width="20%"><strong>Woche 11</strong></td>
+  <td width="80%"><p><h3> Schreiben des Replikationspaaper-Drafts </h3></p> 
+  <p> Entwickeln Sie alleine oder im Team eine Struktur und eine Argumenationslinie für Ihr Replikationspaper. Schauen Sie dafür ggf. in der Sitzung 6 gelesenen Replikationsstudien nach Beispielen für gelungene Argumentationslinien und Gliederungen. Verteilen Sie ggf. Arbeitsaufgaben untereinander.   </p> 
+  
+  <p><h3>Literatur</h3></p> 
+  <p> keine Literatur</p>
+    </td>
+</tr>
+
+<tr>
+<td width="20%"><strong>Woche 12</strong></td>
+  <td width="80%"><p><h3> Schreiben des Replikationspaaper-Drafts II und Abschluss </h3></p> 
+  <p>Präsentieren Sie Ihre Gliederung und inwiefern Sie durch die Replikation einen Forschungsbeitrag leisten konnten (value added) (Kurzpräsentation); Organisieren Sie sich in Kleingruppen, um in der sich nun anschließenden Verschriftlichung Ihrer Forschungsergebnisse peer-feedbacks zu geben. Abgabe der Hausarbeit fristgerecht; Kommen Sie in die Sprechstunden um ggf. Publikationsmöglichkeiten zu besprechen! Keep working on your paper; Abschlussrunde  </p> 
+  
+  <p><h3>Literatur</h3></p> 
+  <p> keine Literatur</p>
+    </td>
+</tr>
+
+
+
 </tbody>
 </table>
 
