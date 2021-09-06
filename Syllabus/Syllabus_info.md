@@ -60,12 +60,57 @@ Machen Sie sich bereits Gedanken, in welchen Forschungsbereich Sie Ihre Replikat
 <tr>
 <td width="20%"><strong>Woche 3</strong></td>
   <td width="80%"><p><h3> Auswahl einer geeigneten Studie zur Replikation </h3></p> 
-  <p> Suchen nach geeigneten quantifizierenden und bereits publizierten Studien; Daten und die Softwareskripte zugänglich?; Verwendeten Methoden bekannt oder wärhend des Seminars erlernbar?; Code und Daten herunterladen und übersichtliche Ordnerstruktur erstellen; Erste Replikationsanalyse: Kommt das raus, was im Paper steht?; Läuft der code?</p> 
+  <p> Suchen nach geeigneten quantifizierenden und bereits publizierten Studien; Daten und Softwareskripte zugänglich?; Verwendeten Methoden bekannt oder wärhend des Seminars erlernbar?; Code und Daten herunterladen und übersichtliche Ordnerstruktur erstellen; Erste Replikationsanalyse: Kommt das raus, was im Paper steht?; Läuft der code?</p> 
   
   <p><h3>Literatur</h3></p> 
   <p> keine Literatur, orientieren Sie sich an Gandrud, Christopher. Reproducible research with R and RStudio. Chapman and Hall/CRC, 2018</p>
   
   </td>
+</tr>
+
+<tr>
+<td width="20%"><strong>Woche 4</strong></td>
+  <td width="80%"><p><h3> Praktische Session </h3></p> 
+  <p> Diskutieren erster Replikationsergebnisse; Wo tauchen Problem auf?; praktische Hilfe untereinandner und durch Seminarleitung; Problemlösung und Verbessern der Skripte; Wie Ergebnisse speichern und Tabellen und Abbildungen reproduzierbar in Paper einbauen (Latex; Word; RMarkdown)</p> 
+  
+  <p><h3>Literatur</h3></p> 
+  <p> keine Literatur</p>
+  
+  </td>
+</tr>
+
+<tr>
+<td width="20%"><strong>Woche 5</strong></td>
+  <td width="80%"><p><h3> Präsentation der Ergebnisse und Cross-Check </h3></p> 
+  <p> Präsentieren der eigenen Reproduktivitätsanalysen der Originalstudie; Wo bestanden Probleme; Diskussion von Richtlinien des cross-checkings unter peers; Wie konstruktives Feedback geben?; Schreiben es Cross-Check Reports an peers; </p> 
+  
+  <p><h3>Literatur</h3></p> 
+  <p> keine Literatur</p>
+  
+  </td>
+</tr>
+
+<tr>
+<td width="20%"><strong>Woche 6</strong></td>
+  <td width="80%"><p><h3> Cross-Check (keine Seminarsitzung)</h3></p> 
+  <p> Durchführen des Cross-Checks für jeweiligen peer; Verbesserungen des eigenen Codes; Lesen mindestens eines veröffentlichten Replikationspapers: Wie ist die Gliederung aufgebaut; Wie trägt das Paper was zur Literatur bei (value added) </p> 
+  
+  <p><h3>Literatur</h3></p> 
+  <p> Herndon, Thomas, Michael Ash, and Robert Pollin. "Does high public debt consistently stifle economic growth? A critique of Reinhart and Rogoff." Cambridge Journal of Economics 38.2 (2014): 257-279. </p>
+    <p> Bell, Mark S., and Nicholas L. Miller. "Questioning the effect of nuclear weapons on conflict." Journal of Conflict Resolution 59.1 (2015): 74-92. </p>
+    <p> Gertler, Paul, Sebastian Galiani, and Mauricio Romero. "How to make replication the norm." Nature (2018): 417-419.</p>
+    <p> Berinsky, A. J., Druckman, J. N., & Yamamoto, T. (2021). Publication Biases in Replication Studies. Political Analysis, 29(3), 370–384. </p>
+    </td>
+</tr>
+
+<tr>
+<td width="20%"><strong>Woche 7</strong></td>
+  <td width="80%"><p><h3> Cross-Check Reports </h3></p> 
+  <p> Vorstellen und Diskutieren der Cross-Check Reports; Problemlösung; Wie bringen wir eine Replikation in eine publikationswürige Form?; Wie einen eigenen Forschungsbeitrag durch Replikation leisten? (Bsp. robustness checks; dummy variables; interactions; omitted variables; model selection, patterns of missings)  </p> 
+  
+  <p><h3>Literatur</h3></p> 
+  <p> keine Literatur</p>
+    </td>
 </tr>
 
 </tbody>
