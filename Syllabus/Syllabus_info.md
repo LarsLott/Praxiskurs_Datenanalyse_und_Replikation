@@ -47,7 +47,7 @@ Machen Sie sich bereits Gedanken, in welchen Forschungsbereich Sie Ihre Replikat
 <tr>
 <td width="20%"><strong>Woche 2</strong></td>
   <td width="80%"><p><h3> Was ist replizierbare sozialwissenschaftliche Datenanalyse? </h3></p> 
-  <p> Was ist gute quantiative Forschung? Wie empirische Analysen anderer Forschender nachvollziehen und replizieren? Was verstehen wir unter Replikation, (Stichworte: Reproducibility vs. Replication; duplication stud;, replication study). Wie planen wir unsere Replikationsstudie? Wie arbeiten wir selber reproduzierbar? </p> 
+  <p> Was ist gute quantitative Forschung? Wie empirische Analysen anderer Forschender nachvollziehen und replizieren? Was verstehen wir unter Replikation, (Stichworte: Reproducibility vs. Replication; duplication stud; replication study). Wie planen wir unsere Replikationsstudie? Wie arbeiten wir selber reproduzierbar? </p> 
   
   <p><h3>Literatur</h3></p> 
   <p> Reproducible Research and Data Analysis. Open Science Training Handbook. https://open-science-training-handbook.gitbook.io/book/open-science-basics/reproducible-research-and-data-analysis </p>
