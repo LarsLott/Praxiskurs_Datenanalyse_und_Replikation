@@ -60,7 +60,7 @@ Machen Sie sich bereits Gedanken, in welchen Forschungsbereich Sie Ihre Replikat
 <tr>
 <td width="20%"><strong>Woche 3</strong></td>
   <td width="80%"><p><h3> Auswahl einer geeigneten Studie zur Replikation </h3></p> 
-  <p> Suchen nach geeigneten quantifizierenden und bereits publizierten Studien; Daten und Softwareskripte zugänglich?; Verwendeten Methoden bekannt oder wärhend des Seminars erlernbar?; Code und Daten herunterladen und übersichtliche Ordnerstruktur erstellen; Erste Replikationsanalyse: Kommt das raus, was im Paper steht?; Läuft der code?</p> 
+  <p> Suchen nach geeigneten quantifizierenden und bereits publizierten Studien; Daten und Softwareskripte zugänglich?; Verwendeten Methoden bekannt oder während des Seminars erlernbar?; Code und Daten herunterladen und übersichtliche Ordnerstruktur erstellen; Erste Replikationsanalyse: Kommt das raus, was im Paper steht?; Läuft der code?</p> 
   
   <p><h3>Literatur</h3></p> 
   <p> keine Literatur, orientieren Sie sich an Gandrud, Christopher. Reproducible research with R and RStudio. Chapman and Hall/CRC, 2018</p>
