@@ -26,7 +26,7 @@ Der Hauptfokus dieses Seminars ist das finale Projekt der Studierenden, in der R
 ## Vorbereitung auf die erste Sitzung ##
 
 Machen Sie sich bereits Gedanken, in welchen Forschungsbereich Sie Ihre Replikationsstudie anfertigen möchten und suchen Sie nach geeigneten bereits publizierten Papern. Eine kurzer Leitfaden:
-* Wählen Sie Paper nur dann aus, wenn die Replikationsmaterialen (Daten, Skripte) über die Zeitschriftenwebiste oder Dataverse, Github etc. öffentlich verfügbar sind. Das sollte aber mittlerweile Standard sein, ist es aber leider nicht immer. 
+* Wählen Sie Paper nur dann aus, wenn die Replikationsmaterialen (Daten, Skripte) über die Zeitschriftenwebsite oder Dataverse, Github etc. öffentlich verfügbar sind. Das sollte aber mittlerweile Standard sein, ist es aber leider nicht immer. 
 * Um die Wahrscheinlichkeit zu erhöhen, dass Ihre Replikationsstudie ggf. publiziert wird, wählen Sie Paper aus, welches in einem hochrangigen Journal veröffentlicht worden ist. 
 * Das Paper sollte nicht älter als 2015 sein. 
 * Das Paper sollte statistische Methoden verwenden, die Sie während der Seminarlaufzeit erlernen können!
