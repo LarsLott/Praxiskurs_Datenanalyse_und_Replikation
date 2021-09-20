@@ -120,9 +120,9 @@ Machen Sie sich bereits Gedanken, in welchen Forschungsbereich Sie Ihre Replikat
   * 1) Originalergebnisse waren replizierbar? -> Wie Mehrwert bieten, der über die Replikationm hinausgeht?; 
   * 2) Originalergebnisse waren nicht replizierbar (bestätigt durch Seminarleitung) -> Warum waren diese nicht replizierbar? Wie Mehrwert bieten und fairen Report schreiben? </p> 
   
- <p> Im Fall 1): Merhwert kann erst generiert werden, wenn Sie die substanzielle, problemspezifische Literatur kennen: Lesen und Sortieren. Im zweiten Schritt mit der   kleinstmöglichen Zahl an Verbesserungen starten, die neue und substanzielle Ergebnisse produziert: “missing data, selection bias, omitted variable bias, the model specification, differential item functioning, the functional form, etc., adding control variables or better measures, extending the time series and conducting out-of-sample tests, applying a better statistical model” (King 2006:120). </p> 
+ <p> Im Fall 1): Mehrwert kann erst generiert werden, wenn Sie die substanzielle, problemspezifische Literatur kennen: Lesen und Sortieren. Im zweiten Schritt mit der   kleinstmöglichen Zahl an Verbesserungen starten, die neue und substanzielle Ergebnisse produziert: “missing data, selection bias, omitted variable bias, the model specification, differential item functioning, the functional form, etc., adding control variables or better measures, extending the time series and conducting out-of-sample tests, applying a better statistical model” (King 2006:120). </p> 
  
-  <p> Im Fall 2): Merhwert kann erst generiert werden, wenn Sie die herausfinden, warum Sie die Ergebnisse nicht reproduzieren können. Woran liegt das? Daten fehlerhaft, Skripte fehlerhaft; Was kommt bei Ihrer Replikation raus? Ändert das die substanzielle Interpretationen der Originalautor:innen? </p> 
+  <p> Im Fall 2): Mehrwert kann erst generiert werden, wenn Sie die herausfinden, warum Sie die Ergebnisse nicht reproduzieren können. Woran liegt das? Daten fehlerhaft, Skripte fehlerhaft; Was kommt bei Ihrer Replikation raus? Ändert das die substanzielle Interpretationen der Originalautor:innen? </p> 
   
   <p><h3>Literatur</h3></p> 
    <p>King, Gary. 1995. Replication, Replication. PS: Political Science and Politics 28: 443–499. http://j.mp/jCyfF1</p>
