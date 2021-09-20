@@ -21,7 +21,7 @@ Der Hauptfokus dieses Seminars ist das finale Projekt der Studierenden, in der R
 * Studierende beherrschen einfache statistische Analysen (deskriptive Statistik, einfache lineare Regressionsmodelle, t-test, F-test)
 * Studierende können mit R oder STATA Datensätze einlesen und data wrangling sicher umsetzen (merging von Datensätzen, Filterung von Daten, Erstellen von Variablen)
 * Studierende können pro Woche mindestens vier Zeitstunden für die Vor- und Nachbereitung des Kurses aufbringen
-* Ferner haben Studierende entweder R (inklsuvie RStudio= oder STATA als Software auf ihren Computern installiert und sind mit den jeweiligen Sprachen vertraut. 
+* Ferner haben Studierende entweder R (inklusive RStudio) oder STATA als Software auf ihren Computern installiert und sind mit den jeweiligen Sprachen vertraut. 
 
 ## Vorbereitung auf die erste Sitzung ##
 
