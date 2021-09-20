@@ -154,7 +154,7 @@ Machen Sie sich bereits Gedanken, in welchen Forschungsbereich Sie Ihre Replikat
 
 <tr>
 <td width="20%"><strong>Woche 11</strong></td>
-  <td width="80%"><p><h3> Schreiben des Replikationspaaper-Drafts </h3></p> 
+  <td width="80%"><p><h3> Schreiben des Replikationspaper-Drafts </h3></p> 
   <p> Entwickeln Sie alleine oder im Team eine Struktur und eine Argumenationslinie für Ihr Replikationspaper. Schauen Sie dafür ggf. in der Sitzung 6 gelesenen Replikationsstudien nach Beispielen für gelungene Argumentationslinien und Gliederungen. Verteilen Sie ggf. Arbeitsaufgaben untereinander.   </p> 
   
   <p><h3>Literatur</h3></p> 
@@ -164,7 +164,7 @@ Machen Sie sich bereits Gedanken, in welchen Forschungsbereich Sie Ihre Replikat
 
 <tr>
 <td width="20%"><strong>Woche 12</strong></td>
-  <td width="80%"><p><h3> Schreiben des Replikationspaaper-Drafts II und Abschluss </h3></p> 
+  <td width="80%"><p><h3> Schreiben des Replikationspaper-Drafts II und Abschluss </h3></p> 
   <p>Präsentieren Sie Ihre Gliederung und inwiefern Sie durch die Replikation einen Forschungsbeitrag leisten konnten (value added) (Kurzpräsentation); Organisieren Sie sich in Kleingruppen, um in der sich nun anschließenden Verschriftlichung Ihrer Forschungsergebnisse peer-feedbacks zu geben. Abgabe der Hausarbeit fristgerecht; Kommen Sie in die Sprechstunden um ggf. Publikationsmöglichkeiten zu besprechen! Keep working on your paper; Abschlussrunde  </p> 
   
   <p><h3>Literatur</h3></p> 
