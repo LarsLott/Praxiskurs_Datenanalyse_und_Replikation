@@ -147,7 +147,8 @@ Machen Sie sich bereits Gedanken, in welchen Forschungsbereich Sie Ihre Replikat
   <p> Bringen Sie in die Sitzung Ihren kompletten Replikationsordner mit. Laufen alle Codes durch? Sind die Benennungen der Files (Tabellen, Figures) eindeutig?, Erstellen Sie ein readme-Dokument für die Nachvollziehbarkeit Ihrer Ordnerstruktur. Legen Sie Ihre Replikationscode inklusive der Ordnerstruktur und der Daten auf einem der folgenden Plattformen ab: Harvard Dataverse (https://dataverse.harvard.edu/); Open Science Framework (https://osf.io/); Github (https://github.com/).  </p> 
   
   <p><h3>Literatur</h3></p> 
-  <p> keine Literatur</p>
+  <p> Alvarez, R. M., & Heuberger, S. (undefined/ed). How (Not) to Reproduce: Practical Considerations to Improve Research Transparency in Political Science. PS: Political Science & Politics, 1–6. https://doi.org/10.1017/S1049096521001062
+</p>
     </td>
 </tr>
 
