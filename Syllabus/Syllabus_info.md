@@ -71,7 +71,7 @@ Machen Sie sich bereits Gedanken, in welchen Forschungsbereich Sie Ihre Replikat
 <tr>
 <td width="20%"><strong>Woche 4</strong></td>
   <td width="80%"><p><h3> Praktische Session </h3></p> 
-  <p> Diskutieren erster Replikationsergebnisse; Wo tauchen Problem auf?; praktische Hilfe untereinandner und durch Seminarleitung; Problemlösung und Verbessern der Skripte; Wie Ergebnisse speichern und Tabellen und Abbildungen reproduzierbar in Paper einbauen (Latex; Word; RMarkdown)</p> 
+  <p> Diskutieren erster Replikationsergebnisse; Wo tauchen Problem auf?; praktische Hilfe untereinander und durch Seminarleitung; Problemlösung und Verbessern der Skripte; Wie Ergebnisse speichern und Tabellen und Abbildungen reproduzierbar in Paper einbauen (Latex; Word; RMarkdown)</p> 
   
   <p><h3>Literatur</h3></p> 
   <p> keine Literatur</p>
