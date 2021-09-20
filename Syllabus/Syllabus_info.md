@@ -82,7 +82,7 @@ Machen Sie sich bereits Gedanken, in welchen Forschungsbereich Sie Ihre Replikat
 <tr>
 <td width="20%"><strong>Woche 5</strong></td>
   <td width="80%"><p><h3> Präsentation der Ergebnisse und Cross-Check </h3></p> 
-  <p> Präsentieren der eigenen Reproduktivitätsanalysen der Originalstudie; Wo bestanden Probleme; Diskussion von Richtlinien des cross-checkings unter peers; Wie konstruktives Feedback geben?; Schreiben es Cross-Check Reports an peers; </p> 
+  <p> Präsentieren der eigenen Reproduktivitätsanalysen der Originalstudie; Wo bestanden Probleme; Diskussion von Richtlinien des cross-checkings unter peers; Wie konstruktives Feedback geben?; Schreiben des Cross-Check Reports an peers; </p> 
   
   <p><h3>Literatur</h3></p> 
   <p> keine Literatur</p>
