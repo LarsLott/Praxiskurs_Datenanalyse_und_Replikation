@@ -106,7 +106,7 @@ Machen Sie sich bereits Gedanken, in welchen Forschungsbereich Sie Ihre Replikat
 <tr>
 <td width="20%"><strong>Woche 7</strong></td>
   <td width="80%"><p><h3> Cross-Check Reports und weiterer Plan </h3></p> 
-  <p> Vorstellen und Diskutieren der Cross-Check Reports; Problemlösung; Wie bringen wir eine Replikation in eine publikationswürige Form?; Wie einen eigenen Forschungsbeitrag durch Replikation leisten? (Bsp. robustness checks; dummy variables; interactions; omitted variables; model selection, patterns of missings)  </p> 
+  <p> Vorstellen und Diskutieren der Cross-Check Reports; Problemlösung; Wie bringen wir eine Replikation in eine publikationswürdige Form?; Wie einen eigenen Forschungsbeitrag durch Replikation leisten? (Bsp. robustness checks; dummy variables; interactions; omitted variables; model selection, patterns of missings)  </p> 
   
   <p><h3>Literatur</h3></p> 
   <p> keine Literatur</p>
