@@ -2,25 +2,25 @@
 
 ## Einführung ##
 
-Dieses Seminar führt Studierende systematisch an der Prozess der Reproduktion von bereits publizierten Arbeiten heran. Zentraler Gedanke dieses Kurses ist es, dass Studierende durch das Replizieren von quantifizierenden Analysen anderer Wissenschaftler:innen besser mit fortgeschrittenen Methoden der sozialwissenschaftlichen Datenanalyse vertraut gemacht werden. Darüberhinaus befähigt das Seminar Studierende dazu angemessene empirische Modelle auszuwählen und erhört die Chance, dass Studierende bereits in einer frühen Karierrephase publizieren. 
+Dieses Seminar führt Studierende systematisch an der Prozess der Reproduktion und Replikation von bereits publizierten Arbeiten heran. Zentraler Gedanke dieses Kurses ist es, dass Studierende durch das Replizieren von quantifizierenden Analysen anderer Wissenschaftler:innen besser mit fortgeschrittenen Methoden der sozialwissenschaftlichen Datenanalyse vertraut gemacht werden. Darüberhinaus befähigt das Seminar Studierende dazu angemessene empirische Modelle auszuwählen und erhört die Chance, dass Studierende bereits in einer frühen Karierrephase publizieren. 
 
-Dieses Seminar ermöglicht es Studierende daher ein tiefgehenderes Verständnis von statistischen Modellen praxisbezogen zu erlangen. Ferner kann es Studierenden gelingen eine Replikationsstudie in einem Journal einzureichen, wenn durch die Replikationsstudie ein eigener substanizeller Beitrag zu Forschung geleistet wird (value added). 
+Dieses Seminar ermöglicht es Studierende daher ein tiefgehenderes Verständnis von statistischen Modellen praxisbezogen zu erlangen. Ferner kann es Studierenden gelingen eine Replikationsstudie in einem Journal einzureichen, wenn durch die Replikationsstudie ein eigener substanzieller Beitrag zu Forschung geleistet wird (value added). 
 
 ## Dauer und Format ##
 
-Dieser Kurs ist zweidimensional gestaltet. Erstens kann dieses Seminar als klassiche Veranstaltung im Rahmen eines Semesters abgehalten werden. Zweitens können die Resorucen und Materialen auch als Selbstlernkurs für bereits fortgeschrittenen Studierende dienen, sich mit Replikationsstudien vertraut zu machen. 
+Dieser Kurs ist zweidimensional gestaltet. Erstens kann dieses Seminar als klassiche Veranstaltung im Rahmen eines Semesters abgehalten werden. Zweitens können die Ressourcen und Materialen auch als Selbstlernkurs für bereits fortgeschrittenen Studierende dienen, sich mit Replikationsstudien vertraut zu machen. 
 
-Im klassischen Format eines Seminars während eines Semesters ist der Kurs auf zwölf Sitzungen ausgelegt. In den meisten dieser Sitzungen folgt einem kurzen Input der Seminarleitung ein extensiver praktischer Part, in denen Studierenden mit Hilfe statistischer Software (R oder STATA) an kleinen wöchentliche Aufgaben arbeiten und syetematisch angeleitet werden die von Ihnen ausgewählte Studie zu replizieren. Studierende haben ferner regelhaft die Gelegenheit über ihre Probleme zu berichten und gemeinsam in den Austausch zu gehen. 
+Im klassischen Format eines Seminars während eines Semesters ist der Kurs auf zwölf Sitzungen ausgelegt. In den meisten dieser Sitzungen folgt einem kurzen Input der Seminarleitung ein extensiver praktischer Part, in denen Studierenden mit Hilfe statistischer Software (R oder STATA) an kleinen wöchentliche Aufgaben arbeiten und syetematisch angeleitet werden, die von Ihnen ausgewählte Studie zu reproduzieren bzw. zu replizieren. Studierende haben ferner regelhaft die Gelegenheit über ihre Probleme zu berichten und gemeinsam in den Austausch zu gehen. 
 
 ## Leistungsüberprüfung ##
 
-Der Hauptfokus dieses Seminars ist das finale Projekt der Studierenden, in der Regel die Replikation und ggf. Ausweitung der Ergebnisse beretis publizierten Arbeiten. Studierende fassen ihre Ergebnisse in einem Forschungsbericht zusammen und erläutern insbesondere was der ausgewählte Forschungsbereich von der Replikation lernt (value added). Ferner dokumentierten Sie alle Analyseschritte transparent und machen Sie entsprechende Softwareskripte und Daten Ihren KommilitonInnen und der Seminarleitung zugänglich.
+Der Hauptfokus dieses Seminars ist das finale Projekt der Studierenden, in der Regel die Reproduktion und ggf. Ausweitung der Ergebnisse bereits publizierten Arbeiten (Replikation). Studierende fassen ihre Ergebnisse in einem Forschungsbericht zusammen und erläutern insbesondere was der ausgewählte Forschungsbereich von der Replikation lernt (value added). Ferner dokumentierten Sie alle Analyseschritte transparent und machen Sie entsprechende Softwareskripte und Daten Ihren Kommiliton:innen und der Seminarleitung zugänglich.
 
 ## Voraussetzungen ##
 
-* Studierende beherrschen einfache statistische Analysen (deskriptive Statistik, einfache lineare Regressionsmodelle, t-test, F-test)
-* Studierende können mit R oder STATA Datensätze einlesen und data wrangling sicher umsetzen (merging von Datensätzen, Filterung von Daten, Erstellen von Variablen)
-* Studierende können pro Woche mindestens vier Zeitstunden für die Vor- und Nachbereitung des Kurses aufbringen
+* Studierende beherrschen einfache statistische Analysen (deskriptive Statistik, einfache lineare Regressionsmodelle, t-test, F-test).
+* Studierende können mit R oder STATA Datensätze einlesen und data wrangling sicher umsetzen (merging von Datensätzen, Filterung von Daten, Erstellen von Variablen).
+* Studierende können pro Woche mindestens vier Zeitstunden für die Vor- und Nachbereitung des Kurses aufbringen.
 * Ferner haben Studierende entweder R (inklusive RStudio) oder STATA als Software auf ihren Computern installiert und sind mit den jeweiligen Sprachen vertraut. 
 
 ## Vorbereitung auf die erste Sitzung ##
@@ -37,7 +37,7 @@ Machen Sie sich bereits Gedanken, in welchen Forschungsbereich Sie Ihre Replikat
 <tbody>
 <tr>
 <td width="20%"><strong>Woche 1</strong></td>
-  <td width="80%"><p><h3>Einführungssitzung </h3></p> <p> Was ist Replikation? Was ist die “reproducibility debate” in der (statistischen) politikwissenschaftlichen Forschung; Warum sollten wir replizieren? Wie wählen Sie ein passendes Paper für eine Replikation aus? Wo findne Sie die Replikationsmaterialen? Wie kommunzieren Sie ggf mit den originalautoren? </p> <p><h3>Literatur</h3></p> 
+  <td width="80%"><p><h3>Einführungssitzung </h3></p> <p> Was ist Replikation? Was ist die “reproducibility debate” in der (statistischen) politikwissenschaftlichen Forschung; Warum sollten wir replizieren? Wie wählen Sie ein passendes Paper für eine Replikation aus? Wo finden Sie die Replikationsmaterialen? Wie kommunzieren Sie ggf. mit den Originalautoren? </p> <p><h3>Literatur</h3></p> 
   <p>King, Gary. 1995. Replication, Replication. PS: Political Science and Politics 28: 443–499. http://j.mp/jCyfF1</p>
   <p>King, Gary “How to Write a Publishable Paper as a Class Project ”, http://gking.harvard.edu/papers</p>
   <p>Nicole Janz, Bringing the Gold Standard into the Classroom: Replication in University Teaching, <em>International Studies Perspectives</em>, Volume 17, Issue 4, November 2016, Pages 392–407, https://doi.org/10.1111/insp.12104</p>
@@ -60,7 +60,7 @@ Machen Sie sich bereits Gedanken, in welchen Forschungsbereich Sie Ihre Replikat
 <tr>
 <td width="20%"><strong>Woche 3</strong></td>
   <td width="80%"><p><h3> Auswahl einer geeigneten Studie zur Replikation </h3></p> 
-  <p> Suchen nach geeigneten quantifizierenden und bereits publizierten Studien; Daten und Softwareskripte zugänglich?; Verwendeten Methoden bekannt oder während des Seminars erlernbar?; Code und Daten herunterladen und übersichtliche Ordnerstruktur erstellen; Erste Replikationsanalyse: Kommt das raus, was im Paper steht?; Läuft der code?</p> 
+  <p> Suchen nach geeigneten quantifizierenden und bereits publizierten Studien; Daten und Softwareskripte zugänglich?; Verwendeten Methoden bekannt oder während des Seminars erlernbar?; Code und Daten herunterladen und übersichtliche Ordnerstruktur erstellen; Erste Replikationsanalyse: Kommt das raus, was im Paper steht?; Läuft der Code?</p> 
   
   <p><h3>Literatur</h3></p> 
   <p> keine Literatur, orientieren Sie sich an Gandrud, Christopher. Reproducible research with R and RStudio. Chapman and Hall/CRC, 2018</p>
@@ -82,7 +82,7 @@ Machen Sie sich bereits Gedanken, in welchen Forschungsbereich Sie Ihre Replikat
 <tr>
 <td width="20%"><strong>Woche 5</strong></td>
   <td width="80%"><p><h3> Präsentation der Ergebnisse und Cross-Check </h3></p> 
-  <p> Präsentieren der eigenen Reproduktivitätsanalysen der Originalstudie; Wo bestanden Probleme; Diskussion von Richtlinien des cross-checkings unter peers; Wie konstruktives Feedback geben?; Schreiben des Cross-Check Reports an peers; </p> 
+  <p> Präsentieren der eigenen Reproduktivitätsanalysen der Originalstudie; Wo bestanden Probleme; Diskussion von Richtlinien des cross-checkings unter peers; Wie konstruktives Feedback geben?; Schreiben des Cross-Check Reports an peers </p> 
   
   <p><h3>Literatur</h3></p> 
   <p> keine Literatur</p>
@@ -147,7 +147,7 @@ Machen Sie sich bereits Gedanken, in welchen Forschungsbereich Sie Ihre Replikat
   <p> Bringen Sie in die Sitzung Ihren kompletten Replikationsordner mit. Laufen alle Codes durch? Sind die Benennungen der Files (Tabellen, Figures) eindeutig?, Erstellen Sie ein readme-Dokument für die Nachvollziehbarkeit Ihrer Ordnerstruktur. Legen Sie Ihre Replikationscode inklusive der Ordnerstruktur und der Daten auf einem der folgenden Plattformen ab: Harvard Dataverse (https://dataverse.harvard.edu/); Open Science Framework (https://osf.io/); Github (https://github.com/).  </p> 
   
   <p><h3>Literatur</h3></p> 
-  <p> Alvarez, R. M., & Heuberger, S. (undefined/ed). How (Not) to Reproduce: Practical Considerations to Improve Research Transparency in Political Science. PS: Political Science & Politics, 1–6. https://doi.org/10.1017/S1049096521001062
+  <p> Alvarez, R. M., & Heuberger, S. (2021). How (Not) to Reproduce: Practical Considerations to Improve Research Transparency in Political Science. PS: Political Science & Politics, 1–6. https://doi.org/10.1017/S1049096521001062
 </p>
     </td>
 </tr>
