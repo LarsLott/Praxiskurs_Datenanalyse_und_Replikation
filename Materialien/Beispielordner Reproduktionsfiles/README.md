@@ -1,15 +1,21 @@
 Title: Replication File for “Conceptualizing and Measuring Autocratization Episodes”
+
 Journal: Swiss Political Science Review
-Author: Lars Pelke, Aurel Croissant 
+
+Author: Lars Pelke, Aurel Croissant
+
 Correspondence: Lars Pelke, Heidelberg University (lars.pelke@ipw.uni-heidelberg.de)
+
 Date: January 10th, 2021
 
 Required Software: R and RStudio (3.6.1 or Above). 
+
 Additional required software packages and libraries are specified in the replication code.
 
+
 Overview: These files replicate all analyses in Lars Pelke and Aurel Croissant, “Conceptualizing and Measuring Autocratization Episodes” Swiss Political Science Review
-To replicate all analyses and figures, download all data files to a folder entitled “~/data”, create a second folder entitled “~/outputs” in the same directory, and run
-all code files in numerical order. In addition, download styles.css to the main folder to replicate the Web Application
+
+To replicate all analyses and figures, download all data files to a folder entitled “~/data”, create a second folder entitled “~/outputs” in the same directory, and run all code files in numerical order. In addition, download styles.css to the main folder to replicate the Web Application
 
 ## Replication Code ##
 
