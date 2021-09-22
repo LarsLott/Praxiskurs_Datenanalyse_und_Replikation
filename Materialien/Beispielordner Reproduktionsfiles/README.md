@@ -11,7 +11,7 @@ Additional required software packages and libraries are specified in the replica
 Overview: These files replicate all analyses in Lars Pelke and Aurel Croissant, “Conceptualizing and Measuring Autocratization Episodes” Swiss Political Science Review
 To replicate all analyses and figures, download all data files to a folder entitled “~/data”, create a second folder entitled “~/outputs” in the same directory, and run all code files in numerical order. In addition, download styles.css to the main folder to replicate the Web Application
 
-## Replication Code##
+## Replication Code ##
 
 01_data_wrangling
 Replicates the data wrangling process and figures in the research note. In addition, it compiles data need for subsequent analysis and you can store the autocraitzation periods dataset. 
