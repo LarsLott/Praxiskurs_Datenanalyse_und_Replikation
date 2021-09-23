@@ -98,7 +98,9 @@ Machen Sie sich bereits Gedanken, in welchen Forschungsbereich Sie Ihre Replikat
   <p><h3>Literatur</h3></p> 
   <p> Herndon, Thomas, Michael Ash, and Robert Pollin. "Does high public debt consistently stifle economic growth? A critique of Reinhart and Rogoff." Cambridge Journal of Economics 38.2 (2014): 257-279. </p>
     <p> Bell, Mark S., and Nicholas L. Miller. "Questioning the effect of nuclear weapons on conflict." Journal of Conflict Resolution 59.1 (2015): 74-92. </p>
-    <p> Gertler, Paul, Sebastian Galiani, and Mauricio Romero. "How to make replication the norm." Nature (2018): 417-419.</p>
+    <p> Behrens, L., & Rohlfing, I. (2018). Not so different in present attitudes and behaviour, but expected future membership: A technical replication of a study of party youth in six European democracies. Research & Politics, 5(1), 2053168018764876. https://doi.org/10.1177/2053168018764876 </p>
+    <p> Eppner, S., & Ganghof, S. (2015). Do (weak) upper houses matter for cabinet formation? A replication and correction. Research & Politics, 2(1), 2053168015577969. https://doi.org/10.1177/2053168015577969 </p>
+    <p> Martel García, F. (2014). Democracy is good for the poor: A procedural replication of Ross (2006). Research & Politics, 1(3), 2053168014559094. https://doi.org/10.1177/2053168014559094 </p>
     <p> Berinsky, A. J., Druckman, J. N., & Yamamoto, T. (2021). Publication Biases in Replication Studies. Political Analysis, 29(3), 370–384. </p>
     </td>
 </tr>
