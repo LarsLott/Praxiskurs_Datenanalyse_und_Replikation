@@ -1,5 +1,7 @@
 # Literatur #
 
+*Hinweis: Die hier zitierten Artikel sind über die UB Heidelberg abrufbar. Leider kann ich Ihnen die Texte hier nicht öffentlich zugänglich bereitstellen. Sollten Sie Probleme haben die Artikel zu beziehen, so kontaktieren Sie mich.*
+
 Alvarez, R. M., & Heuberger, S. (2021 Forthcoming). How (Not) to Reproduce: Practical Considerations to Improve Research Transparency in Political Science. PS: Political Science & Politics, 1–6. https://doi.org/10.1017/S1049096521001062
 
 Alvarez, R. M., Key, E. M., & Núñez, L. (2018). Research Replication: Practical Considerations. PS: Political Science & Politics, 51(2), 422–426. https://doi.org/10.1017/S1049096517002566
